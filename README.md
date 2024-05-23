@@ -1,0 +1,1 @@
+Este es un proyecto implementado en c# con vs.net 2022 el cual es para inicio de sesion con credenciales de usuarios de active directory. Proyecto con base de datos de Liceo Javier asi mismo como el dominio.
